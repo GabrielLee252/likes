@@ -16,13 +16,13 @@
 
 /* ----------------------------------end of nav bar------------------ */
 
-.container{
+.container {
     display: flex;
     padding: 20px;
     gap: 60px;
 }
 
-.icon{
+.icon {
     height: 60px;
 }
 
@@ -50,14 +50,14 @@
     width: 55px;
 }
 
-.james{
+.james {
     border: solid;
     width: 150px;
     height: 200px;
     text-align: center;
 }
 
-.james_info{
+.james_info {
     padding: 10px;
     margin-top: 30px;
 }
